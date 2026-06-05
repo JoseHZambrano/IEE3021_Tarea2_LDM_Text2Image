@@ -1,0 +1,2 @@
+prompt,seed,image_path,num_inference_steps,guidance_scale,height,width,time_seconds,model_id,device
+"a small futuristic research laboratory, clean composition, soft lighting, scientific instruments, high detail",1234,outputs\part_a\images\test_single_image_seed1234.png,4,0.0,512,512,11.851381000000401,stabilityai/sdxl-turbo,cuda

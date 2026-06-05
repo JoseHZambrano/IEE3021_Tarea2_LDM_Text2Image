@@ -1,0 +1,5 @@
+Resumen Parte A
+================
+Número de imágenes: 45
+Tiempo total de inferencia: 424.41 s
+Tiempo promedio por imagen: 9.43 s

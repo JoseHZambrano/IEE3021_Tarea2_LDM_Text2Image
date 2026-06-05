@@ -1,0 +1,5 @@
+Resumen Parte B - Casos adversariales
+=====================================
+Número de imágenes: 9
+Tiempo total de inferencia: 88.03 s
+Tiempo promedio por imagen: 9.78 s
